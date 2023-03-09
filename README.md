@@ -1,6 +1,14 @@
 <h1 align="center">
- Welcome to my profile! 👾
+ Welcome to my profile! 🧙‍♂️
 </h1>
+<div id="badges"  align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=If+you+fail+to+plan+you+plan+to+fail)](https://git.io/typing-svg)
+    
+  </div>
+
+<div id="badges"  align="center">
+    
 <p align="center">
  <img src="https://github.com/Rhuan-Rodrigues1/Rhuan-Rodrigues1/blob/main/images/spike.gif"/>
 </p>
