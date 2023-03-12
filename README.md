@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="center">
-  I'm a Systems Development student , currently I'm focusing on Back-end, Javascript, Node.js and I intend to study java.
+  I'm a Systems Development student , currently I'm focusing on Back-end, Javascript, Node.js. I intend to study php and C++.
 </h3>
   
 <div align="center" style="display: inline_block"><br>
