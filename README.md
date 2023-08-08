@@ -49,7 +49,7 @@
 </h3> 
  
  <div align="center"> 
-    <a href="https://www.linkedin.com/in/rhuan-rodrigues-422a6b228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/rhuan-rodrigues-221815271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <h3 align="center">
   Follow me!
  </h3> 
