@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="center">
-  I'm a Systems Development student , currently I'm focusing on Back-end, Javascript, Node.js. I intend to study php and C++.
+  I'm a Systems Development student , currently I'm focusing on Back-end, Javascript, Node.js and Python.
 </h3>
   
 <div align="center" style="display: inline_block"><br>
@@ -45,7 +45,7 @@
  
  <br>
  <h3 align="center">
-  Pra me conhecer melhor, siga nas redes abaixo!
+  To get to know me better, follow the networks below!
 </h3> 
  
  <div align="center"> 
