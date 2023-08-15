@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="center">
-  I'm a Systems Development student , currently I'm focusing on Back-end, Javascript, Node.js and Python.
+  I'm a Systems Development student , currently I'm focusing on Back-end, Javascript, Node.js.
 </h3>
   
 <div align="center" style="display: inline_block"><br>
