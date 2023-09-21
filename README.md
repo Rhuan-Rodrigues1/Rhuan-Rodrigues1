@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="center">
-  I'm a Systems Development student , currently I'm focusing on Back-end, Node.js, Elixir and Ruby.
+  I'm a Systems Development student , currently I'm focusing on Back-end, Node.js, Java.
 </h3>
   
 <div align="center" style="display: inline_block"><br>
@@ -23,7 +23,7 @@
  </a><a href="#" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Stack" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="Stack" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Stack" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Stack" width="40" height="40"/>
 </a><a href="#" target="_blank" rel="noreferrer">
 </div><br/>
 
